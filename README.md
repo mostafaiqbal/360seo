@@ -1,3 +1,4 @@
+update trying githum without desktop verstion 
 
 
 Git hub commands 
@@ -5,6 +6,10 @@ Git hub commands
 To clone a fline 
 
 git clone (url);
+
+Log in with Git 
+git config -- global user.name "user name "
+git config -- global user.email "email address"
 
 To add to github (3steps);
  1. git add (flie name );
